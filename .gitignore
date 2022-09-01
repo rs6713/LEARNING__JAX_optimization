@@ -1,0 +1,11 @@
+# Enviro Vars
+venv
+
+# Environment Filesy
+/venv/
+.venv/
+# Build/Local Generated Files
+_build/*
+*/_build/
+*/_build/*
+notes/source/_build/*
